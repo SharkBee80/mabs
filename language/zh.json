@@ -1,0 +1,17 @@
+{
+	"0": "中文",
+	"shelf": "书架",
+	"shelf_id": "书架ID",
+	"book_id": "书籍ID",
+	"mode_1": "模式输入id",
+	"mode_2": "模式输入csv",
+	"booklist_path": "书籍列表路径",
+	"login_err_env": "请在 .env file 设置 calibre-web 的地址和用户名密码",
+	"login_err_connect": "calibre-web 连接失败",
+	"login_err_sign": "错误: calibre-web 登录失败",
+	"shelf_add_err_1": "错误: 添加书本 id [{}] 到书架 [{}] 失败",
+	"shelf_add_err_2": "错误: 书本 id [{}] 已经在书架, 或者书架不存在",
+	"shelf_add_ok": "添加书本 id [{}] 到书架的请求成功发送. Calibre-Web 响应: {}",
+	"shelf_add_err_3": "错误: id [{}] 不是有效数字",
+	"shelf_add_err": "添加书本到书架失败: {}"
+}
